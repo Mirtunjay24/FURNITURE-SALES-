@@ -65,7 +65,21 @@ A dynamic Excel dashboard analyzing furniture sales trends, KPIs, and customer s
 
 ## 🛠️ Tools Used  
 - Excel (PivotTables, SUMIFS, VLOOKUP)  
-- PowerPoint (Data Storytelling)  
+- PowerPoint (Data Storytelling)
+
+- 
+---
+
+## 🔗 Connect with Me
+
+📧 Email: mirtun1999@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mirtunjay-kumar23/)  
+🌐 [GitHub](https://github.com/Mirtunjay24)
+
+---
+
+**⭐ If you like this project, feel free to star it and check out my other data analytics projects.**
+
 
 ## 📂 Files  
 - [Excel Dashboard](Furniture_Sales_Analysis.xlsx)  
